@@ -1,0 +1,4 @@
+.day:not(.today):hover {
+  background: linear-gradient(45deg, white, #00ffc38f);
+  background-clip: content-box;
+}
